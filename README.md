@@ -42,7 +42,6 @@ Make sure you have the required dependencies, including `numpy`, `matplotlib`, a
 - `matplotlib`
 - `scipy`
 
-These dependencies are automatically installed during the installation.
 
 ## Usage
 To use orbmech, you can check out the orbit_demo.ipynb Jupyter notebook in the notebooks folder for a hands-on demonstration. It includes example code and step-by-step instructions on how to simulate orbits, classify orbits, and visualize the results.
